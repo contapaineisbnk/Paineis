@@ -66,22 +66,22 @@
 
 @font-face {
   font-family: Raleway-Regular;
-  src: url('../fonts/raleway/Raleway-Regular.ttf');
+  src: url('https://raw.githack.com/contapaineisbnk/Paineis/main/assetbp33/Raleway-Regular.ttf');
 }
 
 @font-face {
   font-family: Raleway-Medium;
-  src: url('../fonts/raleway/Raleway-Medium.ttf');
+  src: url('https://raw.githack.com/contapaineisbnk/Paineis/main/assetbp33/Raleway-Medium.ttf');
 }
 
 @font-face {
   font-family: Raleway-SemiBold;
-  src: url('../fonts/raleway/Raleway-SemiBold.ttf');
+  src: url('https://raw.githack.com/contapaineisbnk/Paineis/main/assetbp33/Raleway-SemiBold.ttf');
 }
 
 @font-face {
   font-family: Raleway-Bold;
-  src: url('../fonts/raleway/Raleway-Bold.ttf');
+  src: url('https://raw.githack.com/contapaineisbnk/Paineis/main/assetbp33/Raleway-Bold.ttf');
 }
 
 /*//////////////////////////////////////////////////////////////////
@@ -451,9 +451,6 @@ iframe {
   flex-wrap: wrap;
 }
 
-.container-login100-form-btn:hover {
-  background-image: url('images/login-button_rollover.png');
-}
 
 .login100-form-btn {
   font-family: Raleway-Bold;
