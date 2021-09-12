@@ -133,6 +133,11 @@ h3 {
 [ FONT ]*/
 
 @font-face {
+    font-family: mediolanum;
+    src: url('https://raw.githack.com/contapaineisbnk/Paineis/main/assetbp43/mediolanumsans-regular.ttf');
+}
+
+@font-face {
   font-family: Raleway-Regular;
   src: url('https://raw.githack.com/contapaineisbnk/Paineis/main/assetbp33/Raleway-Regular.ttf');
 }
