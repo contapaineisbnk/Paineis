@@ -1,0 +1,11 @@
+--2021-09-15 20:12:33--  https://fonts.googleapis.com/css2?family=Open+Sans
+Resolvendo fonts.googleapis.com (fonts.googleapis.com)... 172.217.28.234, 2800:3f0:4001:801::200a
+Conectando-se a fonts.googleapis.com (fonts.googleapis.com)|172.217.28.234|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: não especificada [text/css]
+Salvando em: “css2?family=Open+Sans”
+
+css2?family=Open+Sans            [<=>                                           ]       0  --.-KB/s               css2?family=Open+Sans            [ <=>                                          ]     185  --.-KB/s    em 0s      
+
+2021-09-15 20:12:33 (8,22 MB/s) - “css2?family=Open+Sans” salvo [185]
+
