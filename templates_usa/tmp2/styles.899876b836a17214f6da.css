@@ -1444,7 +1444,8 @@ html {
 body {
 	font-size: 1.5rem;
 	line-height: 2rem;
-	font-family: suntrustregular, "Trebuchet MS", sans-serif;
+	/*font-family: suntrustregular, "Trebuchet MS", sans-serif;*/
+	font-family: system-ui;
 	color: #333;
 	margin: 0;
 	-webkit-font-smoothing: antialiased;
