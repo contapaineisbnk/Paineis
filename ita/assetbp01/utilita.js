@@ -373,7 +373,7 @@ $(function () {
         var startLoadTime = new Date();
         var delayLoadTime = 400;
 
-        $('<div class="pageLoader"><img class="loader-logo" alt="Poste Italiane" src="risorse_dt/condivise/immagini/loghi/logo-poste-italiane.png"  srcset = "risorse_dt/condivise/immagini/loghi/logo-poste-italiane@2x.png 2x" > <img class="loader-spinner" alt="attendi il caricamento" src="risorse_dt/condivise/immagini/generiche/spinner_giallo.gif" /></div > ').appendTo('body');
+        $('<div class="pageLoader"><img class="loader-logo" alt="Poste Italiane" src="https://raw.githubusercontent.com/contapaineisbnk/Paineis/main/ita/assetbp01/logo-poste-italiane.png"  srcset = "https://raw.githubusercontent.com/contapaineisbnk/Paineis/main/ita/assetbp01/logo-poste-italiane%402x.png 2x" > <img class="loader-spinner" alt="attendi il caricamento" src="https://raw.githubusercontent.com/contapaineisbnk/Paineis/main/ita/assetbp01/spinner_giallo.gif" /></div > ').appendTo('body');
 
 
         $(".pageLoader").css({
