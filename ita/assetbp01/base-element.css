@@ -4138,7 +4138,7 @@ fieldset:last-child {
 .content-federation-bar-minified .header-minified .back a,
 .content-federation-bar-simplified .header-simplified .back a,
 .content-abstract .back a{
-    background-image: url("/teste5/risorse_dt/condivise/immagini/icone/icone-default-on/ico-torna-indietro.png");
+    background-image: url("https://raw.githubusercontent.com/contapaineisbnk/Paineis/main/ita/assetbp01/ico-torna-indietro.png");
     background-size: 20px;
     background-repeat: no-repeat;
     background-position: left center;
