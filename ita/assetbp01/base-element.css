@@ -96,7 +96,7 @@ body {
 
 .other a,
 .show-other {
-    background-image: url("risorse_dt/condivise/immagini/icone/icone-tonde-16-blue/ico-freccia-blu.png");
+    
     background-position: right 0;
     background-repeat: no-repeat;
     background-size: 16px;
@@ -105,11 +105,11 @@ body {
 }
 
 .other a {
-    background-image: url("risorse_dt/condivise/immagini/icone/icone-tonde-16-blue/ico-freccia-blu.png");
+    
 }
 
 .show-other a {
-    background-image: url("risorse_dt/condivise/immagini/icone/icone-tonde-16-blue/ico-piu-blu.png");
+    
 }
 
 /***************************/
@@ -157,7 +157,7 @@ body {
 }
 
 .content-alert-browser .content-alert-old-browser #alertIe {
-    background-image: url("risorse_dt/condivise/immagini/icone/icone-bisogni-white-2x/ico-creare-pensione@2x.png");
+    
     background-position: left center;
     background-repeat: no-repeat;
     background-size: 50px;
@@ -361,7 +361,7 @@ fieldset:last-child {
 }
 
 .title-line {
-    background-image: url(risorse_dt/condivise/immagini/generiche/line-bg.png);
+    
     background-position: center;
     background-repeat: repeat-x;
     text-align: center;
@@ -487,7 +487,7 @@ fieldset:last-child {
 }
 
 .breadcrumb > li + li::before {
-    background-image: url(risorse_dt/condivise/immagini/generiche/ico-arrow-grey-right@2x.png);
+    
     background-position: left 6px top 3px;
     background-repeat: no-repeat;
     background-size: 8px 12px;
@@ -920,7 +920,7 @@ fieldset:last-child {
     -webkit-border-radius: 15px 0 0 15px;
     -moz-border-radius: 15px 0 0 15px;
     border-radius: 15px 0 0 15px;
-    background-image: url(risorse_dt/condivise/immagini/generiche/ico-arrow-grey-right.png);
+    
     background-position: right 13px center;
     background-repeat: no-repeat;
     background-size: 9px 14px;
@@ -967,7 +967,7 @@ fieldset:last-child {
 }
 
 .panel-cards-default-icon .panel-heading {
-    background-image: url(risorse_dt/condivise/immagini/generiche/card-title-bg.png);
+    
     background-position: left top;
     background-repeat: no-repeat;
     background-size: 50px;
@@ -979,7 +979,7 @@ fieldset:last-child {
 
 .panel-cards-default-icon .panel-heading .panel-heading-wrap {
     padding-left: 60px;
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-documento-generico.png);
+    
     background-position: left 13px top 12px;
     background-repeat: no-repeat;
     background-size: 24px;
@@ -1131,7 +1131,7 @@ fieldset:last-child {
 
 .panel .panel-badge-star span,
 .panel-cards .panel-badge-star span{
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-badge-star.png);
+    
     background-position: top 7px center;
     background-repeat: no-repeat;
     background-size: 15px;
@@ -1174,7 +1174,7 @@ fieldset:last-child {
 }
 
 .panel-cards-edge .panel-heading .panel-heading-title {
-    background-image: url("risorse_dt/condivise/immagini/generiche/ico-arrow-grey-right.png");
+    
     background-position: right bottom 6px;
     background-repeat: no-repeat;
     background-size: 9px 14px;
@@ -1433,7 +1433,7 @@ fieldset:last-child {
 
 .panel-detailed-cards .panel-wrap,
 .panel-detailed-cards-bg .panel-wrap {
-    background-image: url(risorse_dt/condivise/immagini/generiche/rounded-right-bg.png);
+    
     background-position: top right;
     background-repeat: no-repeat;
 }
@@ -2001,7 +2001,7 @@ fieldset:last-child {
     -webkit-border-radius: 15px 0 0 15px;
     -moz-border-radius: 15px 0 0 15px;
     border-radius: 15px 0 0 15px;
-    background-image: url(risorse_dt/condivise/immagini/generiche/ico-arrow-grey-right.png);
+    
     background-position: right 15px center;
     background-repeat: no-repeat;
     background-size: 9px 14px;
@@ -2143,7 +2143,7 @@ fieldset:last-child {
     -webkit-border-radius: 15px 0 0 15px;
     -moz-border-radius: 15px 0 0 15px;
     border-radius: 15px 0 0 15px;
-    background-image: url(risorse_dt/condivise/immagini/generiche/ico-arrow-grey-right.png);
+    
     background-position: right 13px center;
     background-repeat: no-repeat;
     background-size: 9px 14px;
@@ -2662,7 +2662,7 @@ fieldset:last-child {
 }
 
 .panel-dashboard-bg {
-    background-image: url(risorse_dt/condivise/immagini/generiche/rounded-right-bg.png);
+    
     background-position: top right;
     background-repeat: no-repeat;
 }
@@ -2745,19 +2745,19 @@ fieldset:last-child {
 }
 
 .dashboard-wrap.dashboard-info {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-messages-info.png);
+    
 }
 
 .dashboard-wrap.dashboard-warning {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-messages-warning.png);
+    
 }
 
 .dashboard-wrap.dashboard-error {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-messages-error.png);
+    
 }
 
 .dashboard-wrap.dashboard-success {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-messages-success.png);
+    
 }
 
 .dashboard-wrap.dashboard-success,
@@ -2835,12 +2835,12 @@ fieldset:last-child {
 }
 
 .default-arrow-right {
-    background-image: url('risorse_dt/condivise/immagini/generiche/ico-arrow-grey-right@2x.png');
+    
 }
 
 .collapsed-arrow-closed,
 .open.collapsed .collapsed-arrow {
-    background-image: url('risorse_dt/condivise/immagini/generiche/ico-arrow-grey-down@2x.png');
+    
     -webkit-transform: rotate(0deg);
     -moz-transform: rotate(0deg);
     -o-transform: rotate(0deg);
@@ -2850,7 +2850,7 @@ fieldset:last-child {
 
 .collapsed-arrow-open,
 .open .collapsed-arrow {
-    background-image: url('risorse_dt/condivise/immagini/generiche/ico-arrow-grey-down@2x.png');
+    
     -webkit-transform: rotate(180deg);
     -moz-transform: rotate(180deg);
     -o-transform: rotate(180deg);
@@ -2894,7 +2894,7 @@ fieldset:last-child {
     font-size: 16px;
     font-weight: 500 !important;
     text-transform: uppercase;
-    background-image: url("risorse_dt/condivise/immagini/generiche/ico-arrow-grey-right.png");
+    
     background-repeat: no-repeat;
     background-position: center right;
     background-position: center right 15px;
@@ -2944,14 +2944,14 @@ fieldset:last-child {
 }
 
 .myservices-area .myservices.edit-mode {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-editmode.png);
+    
     background-position: top 5px right 0;
     background-repeat: no-repeat;
 }
 
 .myservices-area-small .myservices.edit-mode {
     background-color: #d9e4f5;
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-editmode-white.png);
+    
     background-position: top 5px right 0;
     background-repeat: no-repeat;
 }
@@ -3268,7 +3268,7 @@ fieldset:last-child {
     width: 60px;
     height: 60px;
     position: absolute;
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-play.png);
+    
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -3679,12 +3679,12 @@ fieldset:last-child {
 
 .content-federation-bar .federation-bar-wrap a.dropdown-toggle-assistenza,
 .content-header a.dropdown-toggle-assistenza {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-assistenza-domande-frequenti.png);
+    
 }
 
 .content-federation-bar .federation-bar-wrap a.dropdown-toggle-login,
 .content-header a.dropdown-toggle-login {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-area-personale.png);
+    
 }
 
 .content-federation-bar .federation-bar-wrap ul li.dropdown-windowbox-login,
@@ -3972,57 +3972,57 @@ fieldset:last-child {
 }
 
 .submenu-need .submenu-need-scroller .scroller-need-spedire a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-greydouble/ico-spedire.png);
+    
 }
 
 .submenu-need .submenu-need-scroller .scroller-need-creare a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-greydouble/ico-creare-pensione.png);
+    
 }
 
 .submenu-need .submenu-need-scroller .scroller-need-finanziare a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-greydouble/ico-finanziare-progetti.png);
+    
 }
 
 .submenu-need .submenu-need-scroller .scroller-need-gestire a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-greydouble/ico-gestire-il-denaro.png);
+    
 }
 
 .submenu-need .submenu-need-scroller .scroller-need-proteggere a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-greydouble/ico-proteggerti-dagli-imprevisti.png);
+    
 }
 
 .submenu-need .submenu-need-scroller .scroller-need-risparmiare a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-greydouble/ico-risparmio-postale-risparmiare-investire.png);
+    
 }
 
 .submenu-need .submenu-need-scroller .scroller-need-spedire.active-element a,
 .submenu-need .submenu-need-scroller .scroller-need-spedire:hover a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-bluedouble/ico-spedisci-online-spedisci.png);
+    
 }
 
 .submenu-need .submenu-need-scroller .scroller-need-creare.active-element a,
 .submenu-need .submenu-need-scroller .scroller-need-creare:hover a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-bluedouble/ico-creare-pensione.png);
+    
 }
 
 .submenu-need .submenu-need-scroller .scroller-need-finanziare.active-element a,
 .submenu-need .submenu-need-scroller .scroller-need-finanziare:hover a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-bluedouble/ico-finanziare-progetti.png);
+    
 }
 
 .submenu-need .submenu-need-scroller .scroller-need-gestire.active-element a,
 .submenu-need .submenu-need-scroller .scroller-need-gestire:hover a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-bluedouble/ico-gestire-il-denaro.png);
+    
 }
 
 .submenu-need .submenu-need-scroller .scroller-need-proteggere.active-element a,
 .submenu-need .submenu-need-scroller .scroller-need-proteggere:hover a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-bluedouble/ico-proteggerti-dagli-imprevisti.png);
+    
 }
 
 .submenu-need .submenu-need-scroller .scroller-need-risparmiare.active-element a,
 .submenu-need .submenu-need-scroller .scroller-need-risparmiare:hover a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-bluedouble/ico-risparmio-postale-risparmiare-investire.png);
+    
 }
 
 
@@ -4410,7 +4410,7 @@ fieldset:last-child {
     float: left;
     padding-right: 25px;
     margin-right: 10px;
-    background-image: url(risorse_dt/condivise/immagini/generiche/line-bg.png);
+    
     background-position: right 0px bottom 8px;
     background-repeat: no-repeat;
 }
@@ -4434,7 +4434,7 @@ fieldset:last-child {
 .steps > li .step-content span.step-number {
     background-color: transparent;
     color: #fff;
-    background-image: url(risorse_dt/condivise/immagini/generiche/list-step.png);
+    
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
@@ -4450,7 +4450,7 @@ fieldset:last-child {
 
 .steps > li.active .step-content span.step-number,
 .steps > li.passed .step-content span.step-number {
-    background-image: url(risorse_dt/condivise/immagini/generiche/list-step-active.png);
+    
 }
 
 .steps > li.active .step-content span.step-desc {
@@ -4470,7 +4470,7 @@ fieldset:last-child {
 }
 
 .steps.steps-internal > li {
-    background-image: url("risorse_dt/applicazioni/trasversali/immagini/steps-internal.png");
+    
     background-repeat: no-repeat;
     background-position: top 40px right 3px;
     margin-right: 0;
@@ -4523,19 +4523,19 @@ fieldset:last-child {
 }
 
 .main-messages-info .main-messages-wrap {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-messages-info.png);
+    
 }
 
 .main-messages-warning .main-messages-wrap {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-messages-warning.png);
+    
 }
 
 .main-messages-error .main-messages-wrap {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-messages-error.png);
+    
 }
 
 .main-messages-success .main-messages-wrap {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-messages-success.png);
+    
 }
 
 .main-messages-info {
@@ -4568,11 +4568,11 @@ fieldset:last-child {
 }
 
 .main-result-success .main-result-wrap .result-heading {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-result-success.png);
+    
 }
 
 .main-result-error .main-result-wrap .result-heading {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-result-error.png);
+    
 }
 
 .main-pills {
@@ -4606,7 +4606,7 @@ fieldset:last-child {
 }
 
 .main-pills.main-pills-bg-pattern-01 {
-    background-image: url(risorse_dt/condivise/immagini/generiche/chart-bg-01.png);
+    
     background-position: bottom center;
     background-repeat: repeat-x;
     background-size: auto 65px;
@@ -4780,51 +4780,51 @@ fieldset:last-child {
 }
 
 .applfunction.applfunction-download > a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-downloadpay.png);
+    
 }
 
 .applfunction.applfunction-print > a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-stampa.png);
+    
 }
 
 .applfunction.applfunction-delete > a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-cestino.png);
+    
 }
 
 .applfunction.applfunction-share > a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-share.png);
+    
 }
 
 .applfunction.applfunction-link > a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-ancora.png);
+    
 }
 
 .applfunction.applfunction-visualizza > a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-documento-generico.png);
+    
 }
 
 .applfunction.applfunction-file-pdf > a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-pdf.png);
+    
 }
 
 .applfunction.applfunction-file-zip > a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-zip.png);
+    
 }
 
 .applfunction.applfunction-file-xls > a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-xls.png);
+    
 }
 
 .applfunction.applfunction-file-doc > a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-doc.png);
+    
 }
 
 .applfunction.applfunction-file-img > a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-img.png);
+    
 }
 
 .applfunction.applfunction-file-img > a {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-ppt.png);
+    
 }
 
 
@@ -4841,7 +4841,7 @@ fieldset:last-child {
 
 .list-check li {
     padding: 0 0 0 30px;
-    background-image: url(risorse_dt/condivise/immagini/generiche/list-check.png);
+    
     background-repeat: no-repeat;
     background-position: 5px 7px;
     background-size: 14px;
@@ -4854,14 +4854,14 @@ fieldset:last-child {
 
 .list-segments li {
     padding: 0 0 0 25px;
-    background-image: url(risorse_dt/condivise/immagini/generiche/ico-arrow-grey-right.png);
+    
     background-repeat: no-repeat;
     background-position: 6px 5px;
     background-size: 9px 14px;
 }
 
 .list-check-yellow li {
-    background-image: url(risorse_dt/condivise/immagini/generiche/list-check-yellow.png);
+    
 }
 
 .list-file {
@@ -4870,7 +4870,7 @@ fieldset:last-child {
 
 .list-file li {
     padding: 3px 0 3px 35px;
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file.png);
+    
     background-repeat: no-repeat;
     background-position: left 2px;
     list-style: none;
@@ -4879,47 +4879,47 @@ fieldset:last-child {
 }
 
 li.list-file-pdf {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-pdf.png);
+    
 }
 
 li.list-file-doc {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-doc.png);
+    
 }
 
 li.list-file-zip {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-zip.png);
+    
 }
 
 li.list-file-xls {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-xls.png);
+    
 }
 
 li.list-file-txt {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-txt.png);
+    
 }
 
 li.list-file-ppt {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-ppt.png);
+    
 }
 
 li.list-file-img {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-img.png);
+    
 }
 
 li.list-file-xml {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-xml.png);
+    
 }
 
 li.list-file-yt {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-yt.png);
+    
 }
 
 li.list-file-mp4 {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-mp4.png);
+    
 }
 
 li.list-file-link {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on/list-file-link.png);
+    
 }
 
 .list-file li .note {
@@ -5321,7 +5321,7 @@ li.list-color-cyan:before {
 .vertical-nav-tabs-left > li.active > a span,
 .vertical-nav-tabs-left > li.active > a:hover span,
 .vertical-nav-tabs-left > li.active > a:focus span {
-    background-image: url("risorse_dt/condivise/immagini/generiche/ico-arrow-grey-right.png");
+    
     background-position: right 15px center;
     background-repeat: no-repeat;
     background-size: 9px 14px;
@@ -5330,7 +5330,7 @@ li.list-color-cyan:before {
 .vertical-nav-tabs-right > li.active > a span,
 .vertical-nav-tabs-right > li.active > a:hover span,
 .vertical-nav-tabs-right > li.active > a:focus span {
-    background-image: url("risorse_dt/condivise/immagini/generiche/ico-arrow-grey-left.png");
+    
     background-position: left 15px center;
     background-repeat: no-repeat;
     background-size: 9px 14px;
@@ -5645,11 +5645,11 @@ li.list-color-cyan:before {
 }
 
 .tag-ico-filter:before {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-filtro.png);
+    
 }
 
 .tag-element-heavenly.tag-ico-filter:before {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-blue/ico-filtro.png);
+    
 }
 
 .tag-remove {
@@ -5657,7 +5657,7 @@ li.list-color-cyan:before {
     width: 40px;
     height: 100%;
     content: "";
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-annulla.png);
+    
     background-repeat: no-repeat;
     background-position: center;
     background-size: 12px;
@@ -5672,7 +5672,7 @@ li.list-color-cyan:before {
 }
 
 .tag-element-heavenly .tag-remove {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-blue/ico-annulla.png);
+    
 }
 
 .tag:active {
@@ -5765,64 +5765,64 @@ li.list-color-cyan:before {
 .btn-cta-remove,
 .btn-cta-remove:active,
 .btn-cta-remove:hover {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-element-remove.png);
+    
     border: none;
     background-color: transparent !important;
 }
 
 .btn-cta-support-scrivici,
 .btn-cta-support-scrivici:active {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-scrivici.png);
+    
 }
 
 .btn-cta-support-chiamaci,
 .btn-cta-support-chiamaci:active {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-chiamaci.png);
+    
 }
 
 .btn-cta-support-vieniatrovarci,
 .btn-cta-support-vieniatrovarci:active {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-vieni-in-poste-cerca-up.png);
+    
 }
 
 .btn-cta-cerca,
 .btn-cta-cerca:active {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-cerca.png);
+    
 }
 
 .btn-cta-elimina,
 .btn-cta-elimina:active {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-cestino.png);
+    
 }
 
 .btn-cta-upload,
 .btn-cta-upload:active {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-upload.png);
+    
 }
 
 .btn-cta-filtra,
 .btn-cta-filtra:active {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-filtro.png);
+    
 }
 
 .btn-cta-visualizza,
 .btn-cta-visualizza:active {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-visualizza.png);
+    
 }
 
 .btn-cta-zoom-aumenta,
 .btn-cta-zoom-aumenta:active {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-zoom-aumenta.png);
+    
 }
 
 .btn-cta-zoom-riduci,
 .btn-cta-zoom-riduci:active {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-zoom-riduci.png);
+    
 }
 
 .btn-cta-zoom-reset,
 .btn-cta-zoom-reset:active {
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-zoom-reset.png);
+    
 }
 
 .btn[disabled],
@@ -6435,14 +6435,14 @@ img.docs-preview-uploaded {
     display: inline-block;
     width: 12px;
     height: 100%;
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-annulla.png);
+    
     background-repeat: no-repeat;
     background-position: center;
     background-size: 12px;
     text-indent: -9999px;
 }
 .file-remove:hover{
-   background-image: url(risorse_dt/condivise/immagini/icone/icone-default-blue/ico-annulla.png);
+   
 }
 /* Box avvisi e errori */
 
@@ -7158,7 +7158,7 @@ img.docs-preview-uploaded {
 }
 
 .carousel-a1 .carousel-overlay {
-    background-image: url(risorse_dt/condivise/immagini/generiche/row-033.png);
+    
     background-position: bottom;
     background-repeat: repeat-x;
     height: 100%;
@@ -7408,7 +7408,7 @@ img.docs-preview-uploaded {
 /* carousel bg */
 
 .carousel-bg .carousel-overlay {
-    background-image: url(risorse_dt/condivise/immagini/generiche/row-033.png);
+    
     background-position: bottom;
     background-repeat: repeat-x;
     background-position: 0px 80px;
@@ -7563,7 +7563,7 @@ img.docs-preview-uploaded {
 }
 
 .searchbar-wrap {
-    background-image: url(risorse_dt/condivise/immagini/icone/ico-barsearch.png);
+    
     background-position: right 20px center;
     background-repeat: no-repeat;
 }
@@ -7614,7 +7614,7 @@ img.docs-preview-uploaded {
 
 /***************************/
 .myOverlay-bg-creative{
-   background-image: url("risorse_dt/condivise/immagini/generiche/myblock-bg-creative.png");
+   
    background-repeat: no-repeat;
    background-position: center;
    min-height: 250px;
@@ -7767,7 +7767,7 @@ position: relative;
 
 .back-to-top {
     background-repeat: no-repeat;
-    background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on/ico-freccia-up.png);
+    
     background-size: 24px;
     background-position: center;
     background-color: transparent;
@@ -8197,7 +8197,7 @@ position: relative;
     }
     /* App Navigation */
     .wrap-application-nav ul.application-nav li.ico-single-element-standard a {
-        background-image: url("risorse_dt/condivise/immagini/icone/icone-default-on/ico-cruscotto.png");
+        
         background-repeat: no-repeat;
         background-position: center bottom 4px;
         background-size: 24px;
@@ -8207,7 +8207,7 @@ position: relative;
     }
     .wrap-application-nav ul.application-nav li.ico-single-element-standard a:hover,
     .wrap-application-nav ul.application-nav li.ico-single-element-standard a.active {
-        background-image: url("risorse_dt/condivise/immagini/icone/icone-default-blue/ico-cruscotto.png");
+        
     }
     /* Panel */
     .panel-cards {
@@ -8486,7 +8486,7 @@ position: relative;
         height: 360px;
     }
     .carousel-a1 .carousel-overlay {
-        background-image: url(risorse_dt/condivise/immagini/generiche/row-020l-033.png);
+        
         background-repeat: repeat-x;
         height: 100%;
     }
@@ -8505,7 +8505,7 @@ position: relative;
         background-position: center right;
     }
     .carousel-a2 .carousel-overlay {
-        background-image: url(risorse_dt/condivise/immagini/generiche/pixel-040.png);
+        
         color: #fff !important;
     }
     /*carousel-b*/
@@ -8513,7 +8513,7 @@ position: relative;
         background-position: left 30% center;
     }
     .carousel-b .carousel-overlay {
-        background-image: url(risorse_dt/condivise/immagini/generiche/pixel-040.png);
+        
         color: #fff !important;
     }
     /*carousel-l*/
@@ -8544,7 +8544,7 @@ position: relative;
     }
     .carousel-l2 .carousel-overlay,
     .carousel-l3 .carousel-overlay {
-        background-image: url(risorse_dt/condivise/immagini/generiche/row-033.png);
+        
         /*background-image: url(risorse_dt/condivise/immagini/generiche/row-020l-033.png);*/
         background-position: bottom;
         background-repeat: repeat-x;
@@ -8555,7 +8555,7 @@ position: relative;
         font-size: 36px;
     }
     .carousel-c .carousel-overlay {
-        background-image: url(risorse_dt/condivise/immagini/generiche/row-033.png);
+        
         /*background-image: url(risorse_dt/condivise/immagini/generiche/row-020l-033.png);*/
         background-position: bottom;
         background-repeat: repeat-x;
@@ -8573,7 +8573,7 @@ position: relative;
         text-align: center;
     }
     .carousel-d .carousel-overlay {
-        background-image: url(risorse_dt/condivise/immagini/generiche/pixel-040.png);
+        
     }
     /*carousel-e*/
     .carousel-e .carousel-text .carousel-text-wrap {
@@ -9213,48 +9213,48 @@ only screen and (min-resolution: 192dpi) {
     /* Barra federata */
     .content-federation-bar .federation-bar-wrap a.dropdown-toggle-assistenza,
     .content-header a.dropdown-toggle-assistenza {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-assistenza-domande-frequenti@2x.png);
+        
     }
     .content-federation-bar .federation-bar-wrap a.dropdown-toggle-login,
     .content-header a.dropdown-toggle-login {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-area-personale@2x.png);
+        
     }
     /* Submenu pagina bisogni */
     .submenu-need .submenu-need-scroller .scroller-need-spedire a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-greydouble-2x/ico-spedire@2x.png);
+        
     }
     .submenu-need .submenu-need-scroller .scroller-need-creare a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-greydouble-2x/ico-creare-pensione@2x.png);
+        
     }
     .submenu-need .submenu-need-scroller .scroller-need-finanziare a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-greydouble-2x/ico-finanziare-progetti@2x.png);
+        
     }
     .submenu-need .submenu-need-scroller .scroller-need-gestire a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-greydouble-2x/ico-gestire-il-denaro@2x.png);
+        
     }
     .submenu-need .submenu-need-scroller .scroller-need-proteggere a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-greydouble-2x/ico-proteggerti-dagli-imprevisti@2x.png);
+        
     }
     .submenu-need .submenu-need-scroller .scroller-need-risparmiare a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-greydouble-2x/ico-risparmio-postale-risparmiare-investire@2x.png);
+        
     }
     .submenu-need .submenu-need-scroller .scroller-need-spedire.active-element a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-bluedouble-2x/ico-spedisci-online-spedisci@2x.png);
+        
     }
     .submenu-need .submenu-need-scroller .scroller-need-creare.active-element a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-bluedouble-2x/ico-creare-pensione@2x.png);
+        
     }
     .submenu-need .submenu-need-scroller .scroller-need-finanziare.active-element a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-bluedouble-2x/ico-finanziare-progetti@2x.png);
+        
     }
     .submenu-need .submenu-need-scroller .scroller-need-gestire.active-element a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-bluedouble-2x/ico-gestire-il-denaro@2x.png);
+        
     }
     .submenu-need .submenu-need-scroller .scroller-need-proteggere.active-element a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-bluedouble-2x/ico-proteggerti-dagli-imprevisti@2x.png);
+        
     }
     .submenu-need .submenu-need-scroller .scroller-need-risparmiare.active-element a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-bisogni-bluedouble-2x/ico-risparmio-postale-risparmiare-investire@2x.png);
+        
     }
     /* arrow */
     .panel-cards .panel-link .btn-card span,
@@ -9266,12 +9266,12 @@ only screen and (min-resolution: 192dpi) {
     .vertical-nav-tabs-left > li.active > a span,
     .vertical-nav-tabs-left > li.active > a:hover span,
     .vertical-nav-tabs-left > li.active > a:focus span {
-        background-image: url(risorse_dt/condivise/immagini/generiche/ico-arrow-grey-right@2x.png);
+        
     }
     .vertical-nav-tabs-right > li.active > a span,
     .vertical-nav-tabs-right > li.active > a:hover span,
     .vertical-nav-tabs-right > li.active > a:focus span {
-        background-image: url("risorse_dt/condivise/immagini/generiche/ico-arrow-grey-left@2x.png");
+        
     }
     .panel-cards-edge .panel-link .btn-card span {
         background-image: none;
@@ -9282,183 +9282,41 @@ only screen and (min-resolution: 192dpi) {
     }
     .btn-cta-support-scrivici,
     .btn-cta-support-scrivici:active {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-scrivici@2x.png);
+        
     }
     .btn-cta-support-chiamaci,
     .btn-cta-support-chiamaci:active {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-chiamaci@2x.png);
+        
     }
     .btn-cta-support-vieniatrovarci,
     .btn-cta-support-vieniatrovarci:active {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-vieni-in-poste-cerca-up@2x.png);
+        
     }
     .btn-cta-cerca,
     .btn-cta-cerca:active {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-cerca@2x.png);
+        
     }
     .btn-cta-upload,
     .btn-cta-upload:active {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-upload@2x.png);
+        
     }
     .btn-cta-elimina,
     .btn-cta-elimina:active {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-cestino@2x.png);
+        
     }
     .btn-cta-filtra,
     .btn-cta-filtra:active {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-filtro@2x.png);
+        
     }
     .btn-cta-visualizza,
     .btn-cta-visualizza:active {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-visualizza@2x.png);
-    }
-    .btn-cta-zoom-aumenta,
-    .btn-cta-zoom-aumenta:active {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-zoom-aumenta@2x.png);
-    }
-
-    .btn-cta-zoom-riduci,
-    .btn-cta-zoom-riduci:active {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-zoom-riduci@2x.png);
-    }
-
-    .btn-cta-zoom-reset,
-    .btn-cta-zoom-reset:active {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-zoom-reset@2x.png);
+        
     }
 
 
-    /* Icone */
-    .list-check li {
-        background-image: url(risorse_dt/condivise/immagini/generiche/list-check@2x.png);
-    }
-    .steps > li .step-content span.step-number {
-        background-image: url(risorse_dt/condivise/immagini/generiche/list-step@2x.png);
-    }
-    .steps > li.active .step-content span.step-number,
-    .steps > li.passed .step-content span.step-number {
-        background-image: url(risorse_dt/condivise/immagini/generiche/list-step-active@2x.png);
-    }
-    .tag-remove, .file-remove {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-annulla@2x.png);
-    }
-    .file-remove:hover{
-       background-image: url(risorse_dt/condivise/immagini/icone/icone-default-blue-2x/ico-annulla@2x.png);
-    }
-    .back-to-top {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-freccia-up@2x.png);
-    }
-    /* Icone Documentazione */
-    .list-file li {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file@2x.png);
-    }
-    li.list-file-pdf {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-pdf@2x.png);
-    }
-    li.list-file-doc {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-doc@2x.png);
-    }
-    li.list-file-zip {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-zip@2x.png);
-    }
-    li.list-file-xls {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-xls@2x.png);
-    }
-    li.list-file-txt {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-txt@2x.png);
-    }
-    li.list-file-ppt {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-ppt@2x.png);
-    }
-    li.list-file-img {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-img@2x.png);
-    }
-    li.list-file-xml {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-xml@2x.png);
-    }
-    li.list-file-yt {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-yt@2x.png);
-    }
-    li.list-file-mp4 {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-mp4@2x.png);
-    }
-    li.list-file-link {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-link@2x.png);
-    }
+   
     /* esiti applicativi */
-    .main-result-success .main-result-wrap .result-heading {
-        background-image: url(risorse_dt/condivise/immagini/icone/ico-result-success@2x.png);
-    }
-    .main-result-error .main-result-wrap .result-heading {
-        background-image: url(risorse_dt/condivise/immagini/icone/ico-result-error@2x.png);
-    }
-    .main-messages-info .main-messages-wrap {
-        background-image: url(risorse_dt/condivise/immagini/icone/ico-messages-info@2x.png);
-    }
-    .main-messages-warning .main-messages-wrap {
-        background-image: url(risorse_dt/condivise/immagini/icone/ico-messages-warning@2x.png);
-    }
-    .main-messages-error .main-messages-wrap {
-        background-image: url(risorse_dt/condivise/immagini/icone/ico-messages-error@2x.png);
-    }
-    .main-messages-success .main-messages-wrap {
-        background-image: url(risorse_dt/condivise/immagini/icone/ico-messages-success@2x.png);
-    }
-    /* altre icone */
-    .applfunction.applfunction-download > a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-downloadpay@2x.png);
-    }
-    .applfunction.applfunction-print > a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-stampa@2x.png);
-    }
-    .applfunction.applfunction-delete > a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-cestino@2x.png);
-    }
-    .applfunction.applfunction-share > a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-share@2x.png);
-    }
-    .applfunction.applfunction-link > a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-ancora@2x.png);
-    }
-    .applfunction.applfunction-visualizza > a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-documento-generico@2x.png);
-    }
-    .applfunction.applfunction-file-pdf > a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-pdf@2x.png);
-    }
-    .applfunction.applfunction-file-zip > a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-zip@2x.png);
-    }
-    .applfunction.applfunction-file-xls > a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-xls@2x.png);
-    }
-    .applfunction.applfunction-file-doc > a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-doc@2x.png);
-    }
-    .applfunction.applfunction-file-img > a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-img@2x.png);
-    }
-    .applfunction.applfunction-file-img > a {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-list-file-on-2x/list-file-ppt@2x.png);
-    }
-    .other a {
-        background-image: url("risorse_dt/condivise/immagini/icone/icone-tonde-16-blue-2x/ico-freccia-blu@2x.png");
-    }
-    .show-other a {
-        background-image: url("risorse_dt/condivise/immagini/icone/icone-tonde-16-blue-2x/ico-piu-blu@2x.png");
-    }
-    .main-pills.main-pills-bg-pattern-01 {
-        background-image: url(risorse_dt/condivise/immagini/generiche/chart-bg-01@2x.png);
-    }
-    .tag-remove, .file-remove {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-on-2x/ico-annulla@2x.png);
-    }
-    .file-remove:hover{
-      background-image: url(risorse_dt/condivise/immagini/icone/icone-default-blue-2x/ico-annulla@2x.png);
-    }
-    .tag-element-heavenly .tag-remove {
-        background-image: url(risorse_dt/condivise/immagini/icone/icone-default-blue-2x/ico-annulla@2x.png);
-    }
+    
     /*
     .thumb-video:after {
         background-image: url(risorse_dt/condivise/immagini/icone/ico-play@2x.png);
