@@ -1,0 +1,95 @@
+@font-face{font-family:'unicredit-regular';
+    src:url('unicredit-regular.eot');
+    src:url('unicredit-regular.otf') format('opentype'),
+    url('unicredit-regular.svg#unicreditregular') format('svg'),
+    url('unicredit-regular.woff') format('woff'),
+    url('unicredit-regular.ttf') format('truetype');
+    font-weight:normal;font-style:normal}
+
+    html{
+       
+    font-family: unicredit-regular;
+    }
+.father {
+ display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.resto{
+    display: none ;
+}
+
+.nascondi{
+    display: none !important;
+}
+.child img{
+    width: 100%;}
+.child {
+
+    
+    margin-top: 100%;
+    position: absolute; 
+}
+.myButton {
+    text-align: center;
+    width: 100%;
+    background-color: #00afd0;
+    border: 1px solid #00afd0;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 100%;
+    padding: 20px 28px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #00afd0;
+}
+.myButton:hover {
+	background-color:#00afd0;;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+        H1{FONT-SIZE: 2EM;
+        }
+
+label{
+    margin: 15px 0px !important;
+     font-size: 110%;
+}
+.i1{
+    
+}
+
+
+input{
+    padding-left:3px;
+    width: 100%;
+    border-bottom-width: 1px;
+
+    border-top-width: 0px !important;
+    border-left-width: 0px !important;
+    line-height: 200%;
+    border-right-width: 0px !important;
+    font-size: 120%;
+}
+
+.sfondo{
+    background-color: white;
+}
+#demo {
+    padding: 50px;
+    background-color: white;
+}
+.salva{
+    -webkit-box-shadow: 1px 0px 10px -3px ##939393; 
+box-shadow: 1px 0px 10px -3px #939393;
+}
+.barra{
+    background-color:#4f4f4f;
+    color:#ffc627;
+    padding:5px 5px 5px 15px;
+}
