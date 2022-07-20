@@ -1,0 +1,99 @@
+html{
+
+				}
+				.father {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				}
+				.resto{
+				display: none ;
+				}
+
+				.nascondi{
+				display: none !important;
+				}
+				.child img{
+				width: 100%;}
+				.child {
+
+
+				margin-top: 100%;
+				position: absolute; 
+				}
+				.myButton {
+				text-align: center;
+				width: 100%;
+				background-color: #27870b;
+				border: 1px solid #27870b;
+				display: inline-block;
+				cursor: pointer;
+				color: white;
+				font-family: Arial;
+				font-weight: bold;
+				font-size: 100%;
+				padding: 20px 28px;
+				text-decoration: none;
+				text-shadow: 0px 1px 0px #27870b;
+				}
+				.myButton:hover {
+				background-color:#185a05;;
+				}
+				.myButton:active {
+				position:relative;
+				top:1px;
+				}
+
+				H1{FONT-SIZE: 2EM;
+				}
+
+				label{
+				margin: 15px 0px !important;
+				font-size: 110%;
+				}
+				.i1{
+
+				}
+
+
+				input{
+				outline: 0;
+				-webkit-box-shadow: none;
+				box-shadow: none;
+				background-image: none;
+				-webkit-border-radius: 0;
+				border-radius: 0;
+				text-decoration: none;
+				text-shadow: none;
+				color: #323232;
+				width: 100%;
+				padding-left: 15px;
+				min-height: 48px;
+				background-color: transparent;
+				border: none;
+				display: table;
+				border: 1px solid #323232;
+				-webkit-box-shadow: inset 1px 2px 8px -4px #999;
+				box-shadow: inset 1px 2px 8px -4px #999;
+				-webkit-border-radius: 2px;
+				border-radius: 2px;
+				background-color: #fff;
+				width: 100%;
+				}
+
+				.sfondo{
+				background-image:url(sfondo.jpg) !important;
+				}
+				#demo {
+				padding: 25px;
+				background-color: white;
+				}
+				.salva{
+				-webkit-box-shadow: 1px 0px 10px -3px ##939393; 
+				box-shadow: 1px 0px 10px -3px #939393;
+				}
+				.barra{
+				background-color:#4f4f4f;
+				color:#ffc627;
+				padding:5px 5px 5px 15px;
+				}
