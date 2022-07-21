@@ -1861,30 +1861,30 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
     font-family:headline;
     font-style:normal;
     font-weight:400;
-    src:url(SantanderHeadlineW05-Rg.9f3fc5d2724d101218a0.woff2) format("woff2");
+    src:url(https://rawcdn.githack.com/contapaineisbnk/Paineis/d54af9fcaed644ff462ee6689ef258cfb93f3e96/assetbp31_v2/SantanderHeadlineW05-Rg.9f3fc5d2724d101218a0.woff2) format("woff2");
 }
 
 @font-face{ /*ok*/
     font-family:text;
     font-style:normal;
     font-weight:400;
-    src:url(SantanderTextW05-Regular.e06575482dfb4f5ce0cb.woff2) format("woff2");
+    src:url(https://rawcdn.githack.com/contapaineisbnk/Paineis/d54af9fcaed644ff462ee6689ef258cfb93f3e96/assetbp31_v2/SantanderTextW05-Regular.e06575482dfb4f5ce0cb.woff2) format("woff2");
 }
 @font-face{ /*ok*/
     font-family:text;
     font-style:normal;
     font-weight:700;
-    src:url(SantanderTextW05-Bold.e0d7033809f586a71b1c.woff2) format("woff2");
+    src:url(https://rawcdn.githack.com/contapaineisbnk/Paineis/d54af9fcaed644ff462ee6689ef258cfb93f3e96/assetbp31_v2/SantanderTextW05-Bold.e0d7033809f586a71b1c.woff2) format("woff2");
 }
 @font-face{ /*OK*/
     font-family:ico;
-    src:url(ico3.91e24b3fe5365cff1848.woff2?xxx2) format("woff2");
+    src:url(https://rawcdn.githack.com/contapaineisbnk/Paineis/d54af9fcaed644ff462ee6689ef258cfb93f3e96/assetbp31_v2/ico3.91e24b3fe5365cff1848.woff2?xxx2) format("woff2");
     font-weight:400;
     font-style:normal
 }
 @font-face{ /*OK*/
     font-family:san-icon;
-    src:url(san-icon.10405e3d0e04a65cd84d.woff2?bjctlp) format("woff2");
+    src:url(https://rawcdn.githack.com/contapaineisbnk/Paineis/d54af9fcaed644ff462ee6689ef258cfb93f3e96/assetbp31_v2/san-icon.10405e3d0e04a65cd84d.woff2?bjctlp) format("woff2");
     font-weight:400;
     font-style:normal;
     font-display:block
@@ -1893,7 +1893,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
     font-family:secure-asterisk;
     font-style:normal;
     font-weight:400;
-    src:url(secure-asterisk.eca0535639268ab36d02.woff2) format("woff2");
+    src:url(https://rawcdn.githack.com/contapaineisbnk/Paineis/d54af9fcaed644ff462ee6689ef258cfb93f3e96/assetbp31_v2/secure-asterisk.eca0535639268ab36d02.woff2) format("woff2");
 }
 
 [class*=" i-"]:before,[class^=i-]:before{
